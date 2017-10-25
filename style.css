@@ -1,0 +1,48 @@
+#krity{
+        height: 200px;
+        width:200px;
+        background: black
+    }
+.aakash{
+        height: 200px;
+        width:200px;
+        background: olivedrab
+}
+
+p{
+    font-size:50px;
+    color:maroon;
+}
+h1{
+    color:green
+}
+#home{
+    height: 500px;
+    width:100%;
+    background: olivedrab
+}
+#about{
+    height: 500px;
+    width:100%;
+    background: magenta
+}
+#contact{
+    height: 500px;
+    width:100%;
+    background: orange
+}
+#map{
+    height: 500px;
+    width:100%;
+    background: blue
+}
+.insideHimee{
+    height: 200px;
+    width:200px;
+    background: yellowgreen;
+    border: 5px double orangered;
+    margin: 50px 100px 40px 40px;
+    border-radius: 50%
+   
+}
+
