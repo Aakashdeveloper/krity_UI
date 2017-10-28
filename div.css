@@ -1,0 +1,31 @@
+#one{
+    height: 300px;
+    width: 50%;
+    background: blue;
+    float: left;
+    text-align: center;
+    box-shadow: 10px 10px pink;
+}
+#two{
+    height: 300px;
+    width: 50%;
+    background: orange;
+    float:left;
+    text-align: center;
+    box-shadow: 10px 10px black;
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background: palevioletred;
+    float:left;
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 250px;
+    text-align: center;
+    font-size: 30px;
+    font-family: Courier New, Courier, monospace;
+    color:red;
+    text-shadow: 2px 2px yellow;
+
+}
